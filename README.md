@@ -1,3 +1,6 @@
 # Web-Design-Challenge.github.io
 
-<p>Click here to checkout the website created with the code above, https://sharifahs.github.io/Web-Design-Challenge/, in which I showcase wheather patterns in realation to the equator!</p>
+<p> The idea behind this project is to showcase wheather patterns in realation to the equator!</p>
+
+<p> To checkout the website created with the code above, click here! https://sharifahs.github.io/Web-Design-Challenge/</p>
+
