@@ -34,23 +34,23 @@
   }
   
   .table {
-    color: rgb(219, 120, 21);
+    color: rgb(13, 119, 240);
     margin-left: auto;
     margin-right: auto;
   }
   
   .table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
-    background-color:  rgb(197, 103, 14);
-    color:#2a2e52;
+    background-color:  rgb(227, 228, 235);
+    color:#021f3a;
     font-weight: bold;  
   }
   
   table thead th { 
-    color:#2a2e52; 
+    color:#000103; 
     font-size:15pt; 
     text-align: center;
     font-family: 52px Times 'Times New Roman', Times, serif;
-    background-color:  rgb(197, 103, 14); 
+    background-color:  rgb(54, 14, 197); 
   }
   
   @media (max-width: 480px) {
