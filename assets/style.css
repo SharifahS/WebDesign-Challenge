@@ -1,0 +1,132 @@
+
+.navbar li a {
+    color: rgb(231, 14, 14);
+    font-weight: bold;
+    
+  }
+
+  #dropdown-menu {
+    visibility: hidden;
+  }
+  
+  .card-padding {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .card-padding2 {
+    padding-left: 20px;
+    padding-right: 100px;
+  }
+  
+  .card-padding3 {
+    padding-left: 100px;
+    padding-right: 20px;
+  }
+  
+  body {
+    background: #0f0e0e;
+    color: rgb(104, 130, 235);
+    font-size: 50px;
+    line-height: 150%;
+    font-family: 52px Times 'Times New Roman', Times, serif;
+    font-size: 1.1em;
+  }
+  
+  .table {
+    color: rgb(219, 120, 21);
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color:  rgb(197, 103, 14);
+    color:#2a2e52;
+    font-weight: bold;  
+  }
+  
+  table thead th { 
+    color:#2a2e52; 
+    font-size:15pt; 
+    text-align: center;
+    font-family: 52px Times 'Times New Roman', Times, serif;
+    background-color:  rgb(197, 103, 14); 
+  }
+  
+  @media (max-width: 480px) {
+    .navbar li {
+      padding: 10px;
+  }
+  
+    .plots {
+      margin-right: 30px;
+      margin-left: 30px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+  }
+  
+    .dropdown-menu {
+      margin-right: 30px;
+      margin-left: 30px;
+  }
+  
+    .navbar ul {
+      visibility: hidden;
+  }
+    
+    #dropdown-menu {
+      visibility: visible;
+  }
+  
+   }
+
+    #navbarSupportedContent {
+      background-color: rgb(198, 200, 204);
+  }
+  
+    .navbar-brand {
+      color: rgb(219, 120, 21);
+  }
+  
+    #latitude {
+     color: rgb(247, 35, 11);
+     font-weight: bolder;
+  }
+
+    #sum {
+     color: rgb(188, 190, 196);
+     font-size: x-large;
+  }
+  
+
+    #back {
+     background-color: rgb(15, 15, 15);
+  }
+ 
+    #navbarContent {
+     background-color: rgb(0, 0, 0);
+  }
+
+ 
+    #navbarContent li a {
+     color: rgb(216, 212, 212);
+  }
+
+    img  {
+     margin-top: 10px;
+     margin-bottom: 10px;
+  }
+
+    h2.text-left {
+     color: white;
+  }
+
+    #click {
+     color: white;
+  }
+
+
+
+
+
+
