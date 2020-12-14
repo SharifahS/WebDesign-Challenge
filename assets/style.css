@@ -6,7 +6,7 @@
   }
 
   #dropdown-menu {
-    visibility: hidden;
+    visibility: visible;
   }
   
   .card-padding {
@@ -53,7 +53,7 @@
     background-color:  rgb(54, 14, 197); 
   }
   
-  @media (max-width: 480px) {
+  @media (max-width: 1200px) {
     .navbar li {
       padding: 10px;
   }
@@ -71,8 +71,17 @@
   }
   
     .navbar ul {
-      visibility: hidden;
+      visibility: visible;
   }
+
+    .main {
+
+      height: 300px;
+      width: 450px;
+
+    }
+
+  
     
     #dropdown-menu {
       visibility: visible;
@@ -109,7 +118,7 @@
 
  
     #navbarContent li a {
-     color: rgb(216, 212, 212);
+     color: rgb(247, 242, 242);
   }
 
     img  {
@@ -125,7 +134,9 @@
      color: white;
   }
 
-
+    #img {
+    visibility:inherit;
+  }
 
 
 
